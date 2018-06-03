@@ -19,12 +19,10 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: June 02, Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:
+1. Introduction to Datascience in Python - Week 2 completed.
+2. Started analyzing [Stack Overflow dataset](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey/version/2#) from kaggle.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** I need a better plan as to what I want to do with the dataset. Preferably I would like to create an application.
