@@ -26,3 +26,11 @@
 2. Started analyzing [Stack Overflow dataset](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey/version/2#) from kaggle.
 
 **Thoughts** I need a better plan as to what I want to do with the dataset. Preferably I would like to create an application.
+
+### Day 2: June 05, Saturday
+
+**Today's Progress**:
+1. Completed Introduction to Datascience in Python course
+2. Completed assignment 2 of the course
+
+**Thoughts**: Working on assignments is much more helpful than trying to analyze a dataset. I learnt quite a big more about relatively unknown pandas functions like `pandas.Series.str.startswith`. When it comes to libraries like `pandas` and `numpy` practice makes perfect.
