@@ -27,10 +27,17 @@
 
 **Thoughts** I need a better plan as to what I want to do with the dataset. Preferably I would like to create an application.
 
-### Day 2: June 05, Saturday
+### Day 2: June 05, Tuesday
 
 **Today's Progress**:
 1. Completed Introduction to Datascience in Python course
 2. Completed assignment 2 of the course
 
 **Thoughts**: Working on assignments is much more helpful than trying to analyze a dataset. I learnt quite a big more about relatively unknown pandas functions like `pandas.Series.str.startswith`. When it comes to libraries like `pandas` and `numpy` practice makes perfect.
+
+### Day 3: Jun 06, Wednesday
+
+**Today's Progress**:
+1. Completed most of question 1 of assignment 2 in the `Introduction to Datascience in Python course`
+
+**Thoughts**: Started pretty late and was super tired. Will do better next time.
