@@ -1,10 +1,12 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Dileep
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1 - Thur Jun 21
+    Started the `beeminder-sync` app. It's an application that syncs various datasources with beeminder.
+    https://github.com/dileep-kishore/beeminder-sync
 
-### R1D2
+### R1D2 - Fri Jun 22
+    Working on the `Beeminder` class which acts as the interface to the `beeminder` api.
