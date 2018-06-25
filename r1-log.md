@@ -13,3 +13,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D3 - Sat Jun 23
     Wrote tests for and fixed bugs in the `beeminder` api interface.
+
+### R1D4 - Sun Jun 24
+    Package now uses `furl` for url manipulation. Added method to retrieve individual goal information.
