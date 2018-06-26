@@ -16,3 +16,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D4 - Sun Jun 24
     Package now uses `furl` for url manipulation. Added method to retrieve individual goal information.
+
+### R1D5 - Mon Jun 25
+    Package now supports querying and creating datapoints.
