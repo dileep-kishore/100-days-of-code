@@ -19,3 +19,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D5 - Mon Jun 25
     Package now supports querying and creating datapoints.
+
+### R1D4 - Tue Jun 26
+    Completed tests for datapoint creation method. Currently implementing the cli for the `Beeminder` class
