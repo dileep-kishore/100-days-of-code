@@ -25,3 +25,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D7 - Wed Jun 27
     Changed configuration file type from `json` to `ini`
+
+#### R1D8 - Thu Jun 28
+    Setting up the CLI to manage configuration directory and file
