@@ -28,3 +28,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D8 - Thu Jun 28
     Setting up the CLI to manage configuration directory and file
+
+#### R1D9 - Fri Jun 29
+    Setting up the CLI to manage application configuration
