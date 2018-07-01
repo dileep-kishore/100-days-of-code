@@ -31,3 +31,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D9 - Fri Jun 29
     Setting up the CLI to manage application configuration
+
+#### R1D10 - Sat Jun 30
+    Added the `BeeSync` class to handle the configuration
