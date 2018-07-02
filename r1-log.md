@@ -34,3 +34,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D10 - Sat Jun 30
     Added the `BeeSync` class to handle the configuration
+
+#### R1D11 - Sun Jul 01
+    Add loading spinners using the `halo` library and sub-commands to update configuration file and talk to the `beeminder` api
