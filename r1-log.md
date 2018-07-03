@@ -37,3 +37,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D11 - Sun Jul 01
     Add loading spinners using the `halo` library and sub-commands to update configuration file and talk to the `beeminder` api
+
+#### R1D12 - Mon Jul 02
+    Spinners now show success and failure status for various actions
