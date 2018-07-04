@@ -40,3 +40,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D12 - Mon Jul 02
     Spinners now show success and failure status for various actions
+
+#### R1D13 - Tue Jul 03
+    Configuration backup and replacement when new configuration is provided
