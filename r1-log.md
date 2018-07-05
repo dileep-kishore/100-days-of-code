@@ -43,3 +43,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D13 - Tue Jul 03
     Configuration backup and replacement when new configuration is provided
+
+#### R1D14 - Wed Jul 04
+    Testing the CLI
