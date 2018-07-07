@@ -49,3 +49,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D15 - Thu Jul 05
     Application now sets up new configuration files and directory on first run
+
+#### R1D16 - Fri Jul 06
+    Created `setup.py` and confirmed that the functionality implemented so far works as expected.
