@@ -52,3 +52,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D16 - Fri Jul 06
     Created `setup.py` and confirmed that the functionality implemented so far works as expected.
+
+#### R1D17 - Sat Jul 07
+    Having trouble testing `click.prompt` using `pytest`. Testing the base `BeeSync` class instead
