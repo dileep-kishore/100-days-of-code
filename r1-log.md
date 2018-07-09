@@ -55,3 +55,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D17 - Sat Jul 07
     Having trouble testing `click.prompt` using `pytest`. Testing the base `BeeSync` class instead
+
+#### R1D18 - Sun Jul 08
+    Got the basic CLI set up. Now onto creating the database backend and connections to store data from api requests
