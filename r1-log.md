@@ -58,3 +58,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D18 - Sun Jul 08
     Got the basic CLI set up. Now onto creating the database backend and connections to store data from api requests
+
+#### R1D19 - Mon Jul 09
+    Add logging to application
