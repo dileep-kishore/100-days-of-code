@@ -64,3 +64,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D20 - Tue Jul 10
     Logging configuration continued
+
+#### R1D21 - Wed Jul 11
+    Finally logging configuration working. Still have to implement log calls throughout the application
