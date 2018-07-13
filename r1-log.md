@@ -67,3 +67,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D21 - Wed Jul 11
     Finally logging configuration working. Still have to implement log calls throughout the application
+
+#### R1D22 - Thu Jul 12
+    Completed setting up logging for the `Beeminder` class. Thinking about how to structure the cli for the api.
