@@ -70,3 +70,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D22 - Thu Jul 12
     Completed setting up logging for the `Beeminder` class. Thinking about how to structure the cli for the api.
+
+#### R1D23 - Sat Jul 14
+    The `beeminder` subcommand works! Can create and retrieve datapoints
