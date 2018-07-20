@@ -76,3 +76,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D24 - Wed Jul 18
     Update the CLI and API to ensure that the `Halo` spinners are entirely handled in the API classes
+
+#### R1D25 - Thu Jul 19
+    Create `tox` and `travis-ci` configuration to set up CI/CD
