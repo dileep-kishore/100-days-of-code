@@ -79,3 +79,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D25 - Thu Jul 19
     Create `tox` and `travis-ci` configuration to set up CI/CD
+
+#### R1D26 - Mon Jul 23
+    Add `travis-ci`, `pyup` and `readthedocs` setup to the project
