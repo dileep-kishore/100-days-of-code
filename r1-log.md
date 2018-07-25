@@ -82,3 +82,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D26 - Mon Jul 23
     Add `travis-ci`, `pyup` and `readthedocs` setup to the project
+
+#### R1D27 - Tue Jul 24
+    Fixed tests and changed the configuration file used for the tests
