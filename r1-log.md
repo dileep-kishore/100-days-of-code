@@ -85,3 +85,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D27 - Tue Jul 24
     Fixed tests and changed the configuration file used for the tests
+
+#### R1D28 - Wed Jul 25
+    Add flags to disable cli spinners for tests. Fix travis and readthedocs configurations
