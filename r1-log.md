@@ -88,3 +88,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D28 - Wed Jul 25
     Add flags to disable cli spinners for tests. Fix travis and readthedocs configurations
+
+#### R1D29 - Thu Jul 26 21:36:50 EDT 2018
+    CLI now supports creation and retieval of datapoints from beeminder goals. Progress is displayed using `Halo` spinners, every event and api call is logged
