@@ -91,3 +91,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D29 - Thu Jul 26 21:36:50 EDT 2018
     CLI now supports creation and retieval of datapoints from beeminder goals. Progress is displayed using `Halo` spinners, every event and api call is logged
+
+#### R1D30 - Fri Jul 27
+    Created a gif recording of the working app
