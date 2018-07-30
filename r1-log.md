@@ -94,3 +94,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D30 - Fri Jul 27
     Created a gif recording of the working app
+
+#### R1D31 - Sun Jul 29
+    Updated the gif recording for the README
