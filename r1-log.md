@@ -97,3 +97,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D31 - Sun Jul 29
     Updated the gif recording for the README
+
+#### R1D32 - Tue Jul 31
+    Debating whether a database backend is necessary
