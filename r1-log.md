@@ -100,3 +100,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D32 - Tue Jul 31
     Debating whether a database backend is necessary
+
+#### R1D33 - Thu Aug 02
+    Update badges and start adding functionality for multiple output format (table, json)
