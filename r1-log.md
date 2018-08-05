@@ -106,3 +106,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D34 - Fri Aug 03
     Finally recorded a good `gif` of the application in action. Also I have a much better idea of how I want to design the interface (custom user functions/scripts for the app)
+
+#### R1D35 - Sat Aug 04
+    Make output prettier and create sane defaults for subcommands
