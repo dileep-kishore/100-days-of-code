@@ -109,3 +109,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D35 - Sat Aug 04
     Make output prettier and create sane defaults for subcommands
+
+#### R1D36 - Sun Aug 05
+    Isolate test configuration to tmpdir. Started working on the query and output options for the CLI
