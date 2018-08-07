@@ -112,3 +112,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D36 - Sun Aug 05
     Isolate test configuration to tmpdir. Started working on the query and output options for the CLI
+
+#### R1D37 - Mon Aug 06
+    Fix format of api responses. Working on --query option to filter output
