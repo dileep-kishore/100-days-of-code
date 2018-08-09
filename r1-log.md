@@ -115,3 +115,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D37 - Mon Aug 06
     Fix format of api responses. Working on --query option to filter output
+
+#### R1D38 - Wed Aug 08
+    Started working on a stochastic simulation algorithm package for Python
