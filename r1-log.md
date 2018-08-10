@@ -118,3 +118,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D38 - Wed Aug 08
     Started working on a stochastic simulation algorithm package for Python
+
+#### R1D39 - Thu Aug 09
+    Fixed broken tests. Implemented CD with pypi and travis.
