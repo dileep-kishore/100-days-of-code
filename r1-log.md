@@ -121,3 +121,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D39 - Thu Aug 09
     Fixed broken tests. Implemented CD with pypi and travis.
+
+#### R1D40 - Fri Aug 10
+    Completed 'query' option to query response of api. Have a look at https://stedolan.github.io/jq/
