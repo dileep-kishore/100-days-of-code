@@ -124,3 +124,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D40 - Fri Aug 10
     Completed 'query' option to query response of api. Have a look at https://stedolan.github.io/jq/
+
+#### R1D41 - Sat Aug 11
+    Fix documentation and start working on `--output` option
