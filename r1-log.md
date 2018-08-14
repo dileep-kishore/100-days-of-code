@@ -127,3 +127,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D41 - Sat Aug 11
     Fix documentation and start working on `--output` option
+
+#### R1D42 - Mon Aug 13
+    Change pytest default traceback and add tests for the `query` function
