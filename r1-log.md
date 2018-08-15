@@ -130,3 +130,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D42 - Mon Aug 13
     Change pytest default traceback and add tests for the `query` function
+
+#### R1D43 - Tue Aug 14
+    Implement 'output' option to format the api response as either prettified 'json' or 'table'
