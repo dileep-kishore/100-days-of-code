@@ -133,3 +133,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D43 - Tue Aug 14
     Implement 'output' option to format the api response as either prettified 'json' or 'table'
+
+#### R1D44 - Wed Aug 15
+    Didn't have time to do much. Still working on converting the json response to a prettified 'table' format.
