@@ -136,3 +136,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D44 - Wed Aug 15
     Didn't have time to do much. Still working on converting the json response to a prettified 'table' format.
+
+#### R1D45 - Thu Aug 16
+    Didn't get much done. Just updated the `query` option to return a dictionary instead of a list.
