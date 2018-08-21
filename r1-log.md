@@ -139,3 +139,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 #### R1D45 - Thu Aug 16
     Didn't get much done. Just updated the `query` option to return a dictionary instead of a list.
+
+### R1D46 - Mon Aug 20
+    Forked and customized `vim-anywhere` to work with termite and neovim. Still trying to get it to work with tdrop!
