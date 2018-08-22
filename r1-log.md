@@ -142,3 +142,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D46 - Mon Aug 20
     Forked and customized `vim-anywhere` to work with termite and neovim. Still trying to get it to work with tdrop!
+
+### R1D47 - Tue Aug 21
+    Learning `Cython` to speed up a Python-numpy implementation of the Gillespie algorithm
