@@ -145,3 +145,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D47 - Tue Aug 21
     Learning `Cython` to speed up a Python-numpy implementation of the Gillespie algorithm
+
+### R1D48 - Thu Aug 23
+    Trying to optimize a Gillespie algorithm using `Cython`
