@@ -148,3 +148,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D48 - Thu Aug 23
     Trying to optimize a Gillespie algorithm using `Cython`
+
+### R1D49 - Thu Aug 30
+    Converted all functions to Cython implementations. Next step is to profile and make it faster
