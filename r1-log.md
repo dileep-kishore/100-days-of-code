@@ -151,3 +151,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D49 - Thu Aug 30
     Converted all functions to Cython implementations. Next step is to profile and make it faster
+
+### R1D49 - Thu Sep 06
+    Profiling and timing the Cython implementation of the Gillespie algorithm
