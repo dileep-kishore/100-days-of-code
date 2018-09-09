@@ -154,3 +154,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D49 - Thu Sep 06
     Profiling and timing the Cython implementation of the Gillespie algorithm
+
+### R1D50 - Sat Sep 08
+    Created a benchmarking module to profile and time a Cython implementation of a Gillespie algorithm
