@@ -157,3 +157,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D50 - Sat Sep 08
     Created a benchmarking module to profile and time a Cython implementation of a Gillespie algorithm
+
+### R1D51 - Sun Sep 09
+    Implemented a table output option for the beeminder api response
