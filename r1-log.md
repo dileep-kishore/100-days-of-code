@@ -160,3 +160,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D51 - Sun Sep 09
     Implemented a table output option for the beeminder api response
+
+### R1D52 - Sun Sep 16
+    Version 0.2.0 is out! Need to update README and the demo
