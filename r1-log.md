@@ -166,3 +166,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D53 - Mon Sep 17
     The package is now available on pypi. Install using `pip install beeminder-sync`. README and documentation update in progress.
+
+### R1D54 - Tue Sep 18
+    Update package release notes and changelog. Fix minor issues with `query` and `output` functions. Recording an updated demo of the app.
