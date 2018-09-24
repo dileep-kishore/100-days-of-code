@@ -169,3 +169,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D54 - Tue Sep 18
     Update package release notes and changelog. Fix minor issues with `query` and `output` functions. Recording an updated demo of the app.
+
+### R1D55 - Sun Sep 23
+    Updated the README and the demo. Need to fix the font size issue on the gif!
